@@ -1,0 +1,23 @@
+
+.hero-section {
+  background: url("https://st.hzcdn.com/simgs/ddb1238600438cb7_4-4219/victorian-exterior.jpg") 50% no-repeat;
+  background-size: cover;
+  height: 60vh;
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+          font-family:serif;
+          font-style: italic;
+}
+h1 {font-weight:bold;font-size: 400%;
+     color:white;}
+
+     h5{color:white;font-size: 200%
+     }
